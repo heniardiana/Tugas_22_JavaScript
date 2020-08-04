@@ -1,2 +1,2 @@
 # Tugas_22_JavaScript
-Tugas 20 Javascript niomic
+Tugas 22 Javascript niomic
